@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Motorola</string>
+
+    <string name="no_results_item_text">No results found</string>
+    <string name="user_item_defualt_name">user\'s name</string>
+    <string name="user_item_default_email">"user's email "</string>
+    <string name="load_state_button_text">Retry</string>
+    <string name="item_user_image_description">user\'s image</string>
+    <string name="network_not_available_text">No network available!</string>
+    <string name="loading">LOADING</string>
+
+</resources>
